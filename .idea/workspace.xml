@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3d7467b-a7c7-4f02-aeb8-e9e822571659" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hZtgeH5ajPJdn8AKYHk0pA67y5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.assets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.background.executor&quot;: &quot;Run&quot;,
+    &quot;Python.barrier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bird.executor&quot;: &quot;Run&quot;,
+    &quot;Python.column.executor&quot;: &quot;Run&quot;,
+    &quot;Python.configs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fairy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fairyland.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finish.executor&quot;: &quot;Run&quot;,
+    &quot;Python.floor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_over_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_start_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ground_barrier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jenny.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jenny_the_hamburger_maker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.patty_panic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tower.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rong/PycharmProjects/JennyTheHumburgerMaker/objects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rong\PycharmProjects\JennyTheHumburgerMaker\objects" />
+      <recent name="C:\Users\Rong\PycharmProjects\GymFairy\objects" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d7467b-a7c7-4f02-aeb8-e9e822571659" name="Changes" comment="" />
+      <created>1717813540106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717813540106</updated>
+      <workItem from="1717813541534" duration="29125000" />
+      <workItem from="1719882093538" duration="20319000" />
+      <workItem from="1719940031165" duration="4808000" />
+      <workItem from="1720309822652" duration="7450000" />
+      <workItem from="1720317347466" duration="26000" />
+      <workItem from="1720317441820" duration="1511000" />
+      <workItem from="1720319038661" duration="2040000" />
+      <workItem from="1720890810615" duration="53300000" />
+      <workItem from="1721456361183" duration="522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RunNigga$main.coverage" NAME="main Coverage Results" MODIFIED="1719534929614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymFairy$column.coverage" NAME="column Coverage Results" MODIFIED="1719886356201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$assets.coverage" NAME="assets Coverage Results" MODIFIED="1719883229306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RunNigga$floor.coverage" NAME="floor Coverage Results" MODIFIED="1719457030070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/RunNigga$configs.coverage" NAME="configs Coverage Results" MODIFIED="1719290703148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymFairy$tower.coverage" NAME="tower Coverage Results" MODIFIED="1719884384340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/FairyLand$barrier.coverage" NAME="barrier Coverage Results" MODIFIED="1720319637223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$main.coverage" NAME="main Coverage Results" MODIFIED="1720317088817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairyLand$fairyland.coverage" NAME="fairyland Coverage Results" MODIFIED="1720320538767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$jenny_the_hamburger_maker.coverage" NAME="jenny_the_hamburger_maker Coverage Results" MODIFIED="1721364340550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RunNigga$background.coverage" NAME="background Coverage Results" MODIFIED="1719459011446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$fairy.coverage" NAME="fairy Coverage Results" MODIFIED="1719882811678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$star.coverage" NAME="star Coverage Results" MODIFIED="1720316268777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$configs.coverage" NAME="configs Coverage Results" MODIFIED="1719901913524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymFairy$game_over_message.coverage" NAME="game_over_message Coverage Results" MODIFIED="1719893284170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$jenny.coverage" NAME="jenny Coverage Results" MODIFIED="1721366154999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/RunNigga$column.coverage" NAME="column Coverage Results" MODIFIED="1719534896169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$fairyland.coverage" NAME="fairyland Coverage Results" MODIFIED="1720890818279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RunNigga$bird.coverage" NAME="bird Coverage Results" MODIFIED="1719545738676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$customers.coverage" NAME="customers Coverage Results" MODIFIED="1721368076033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$ground_barrier.coverage" NAME="ground_barrier Coverage Results" MODIFIED="1719884605059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$finish.coverage" NAME="finish Coverage Results" MODIFIED="1719898470012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/GymFairy$barrier.coverage" NAME="barrier Coverage Results" MODIFIED="1719901213983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$background.coverage" NAME="background Coverage Results" MODIFIED="1720908312457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$countdown.coverage" NAME="countdown Coverage Results" MODIFIED="1721368986497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/RunNigga$game_start_message.coverage" NAME="game_start_message Coverage Results" MODIFIED="1719290982979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$configs.coverage" NAME="configs Coverage Results" MODIFIED="1721177816709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JennyTheHumburgerMaker$patty_panic.coverage" NAME="patty_panic Coverage Results" MODIFIED="1721456666328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymFairy$score.coverage" NAME="score Coverage Results" MODIFIED="1719900619565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+  </component>
+</project>

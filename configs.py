@@ -1,0 +1,13 @@
+FPS = 60
+ANIMATION_FPS = 12
+SCREEN_WIDTH = 432
+SCREEN_HEIGHT = 768
+JENNY_MOVE_SPEED = 30 #How fast Jenny moves in keyboard control
+INGREDIENT_COLLECTION_MARGIN = 40 #The tolerated error for a ingredient to be considered collected
+SPAWN_INGREDIENT_INTERVAL = 900
+SPAWN_INGREDIENT_NOISE = 0.15 # 15% noise
+SPAWN_MISSING_INGREDIENT_PROB = 0.5 #The probability to spawn the ingredient that is needed next
+DIFFICULTY_FACTOR = 0.95 #How fast SPAWN_MISSING_INGREDIENT_PROB decades over the levels
+SECONDS_PER_ROUND = 60 #Number of seconds of a round
+ENFORCE_INGREDIENTS_ORDER = True
+GOALS_PER_ROUND = 2 #Hamburgers that need to be made per round
